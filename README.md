@@ -7,5 +7,6 @@ I'm Keitha and I've worked in the field of development for the last 5 years as a
 |A funny|Table|
 |-------|:----|
 |This is a| funny table|
+---
 
 <img width="480" height="461" alt="Sport Serve GIF by War Child" src="https://github.com/user-attachments/assets/ddc6ec4b-5f5e-46da-a7d2-0c9fcfb09ae7" />
