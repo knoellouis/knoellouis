@@ -11,4 +11,4 @@ I'm Keitha and I've worked in the field of development for the last 5 years as a
 <a href="https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0" target="_blank"><img src="https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0" 
 alt="Tennis" width="240" height="180" border="10" /></a>
 
-[![Tennis](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0.gif)](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0.gif)
+[![Tennis](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0/giphy.gif)](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0/giphy.gif)
