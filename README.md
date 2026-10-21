@@ -4,8 +4,7 @@ I'm Keitha and I've worked in the field of development for the last 5 years as a
 ---
 ## Somebody's bread (not mine)
 ![Sourdough bread](https://afarmgirlskitchen.com/wp-content/uploads/2024/03/Beginners-Sourdough-Bread.jpg)
----
 ### Here's a funny table
 |A funny|Table|
 |-------|:----|
-|This is a|: funny table|
+|This is a| funny table|
