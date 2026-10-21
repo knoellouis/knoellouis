@@ -8,7 +8,4 @@ I'm Keitha and I've worked in the field of development for the last 5 years as a
 |-------|:----|
 |This is a| funny table|
 
-<a href="https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0" target="_blank"><img src="https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0" 
-alt="Tennis" width="240" height="180" border="10" /></a>
-
-[![Tennis](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0/giphy.gif)](https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0/giphy.gif)
+<img width="480" height="461" alt="Sport Serve GIF by War Child" src="https://github.com/user-attachments/assets/4b025bf0-c670-47af-92b6-21e14825e6c2" />
