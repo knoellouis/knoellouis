@@ -8,4 +8,6 @@ I'm Keitha and I've worked in the field of development for the last 5 years as a
 |-------|:----|
 |This is a| funny table|
 
-![Tennis](https://media.giphy.com/media/8zT0D36Myf9C0/giphy.gif)
+<p align="center">
+  <img width="250" src="https://giphy.com/gifs/drake-tennis-wii-8zT0D36Myf9C0/giphy.gif">
+</p>
