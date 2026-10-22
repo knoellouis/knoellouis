@@ -1,6 +1,6 @@
 # Welcome to my Github Repository
 
-I'm Keitha and I've worked as a frontend developer for 5 years. I am from the Caribbean and have two daughters whom I love very much! In my free time I love baking (especially sourdough bread) and playing tennis. 
+I'm Keitha and I've worked as a frontend developer for 5 years. I come from the Caribbean and I have two daughters! In my free time I love baking (especially sourdough bread) and playing tennis. 
 ## Somebody's bread (not mine)
 ![Sourdough bread](https://afarmgirlskitchen.com/wp-content/uploads/2024/03/Beginners-Sourdough-Bread.jpg)
 ### Here's a funny table
