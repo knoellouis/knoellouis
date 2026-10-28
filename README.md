@@ -10,4 +10,4 @@ I'm currently deepening my knowledge of React and TypeScript through personal pr
 
 My goal is to continue growing as a software developer while building thoughtful digital experiences that combine good design with reliable functionality.
 
-I come from the Caribbean and I have two daughters! In my free time I love baking (especially sourdough bread) and playing tennis. 
+Lastly, I come from the Caribbean and I have two daughters! In my free time I love baking (especially sourdough bread) and playing tennis. 
